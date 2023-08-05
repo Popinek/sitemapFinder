@@ -64,4 +64,4 @@ sitemap = find_sitemap(url)
 if sitemap:
     print(f"The sitemap for {url} is: {sitemap}")
 else:
-    print(f"No sitemap found for {url}")
+    print(f"No sitemap found {url}")
